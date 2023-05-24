@@ -3,6 +3,6 @@
 
 This app will provide the portability and security of an election to the voter and Candidate.
  
- Contributed by: Manav Verma, Ashvin Arora, Mohd. Baquir, Manasvi Chahal. 
+Contributed by: Manav Verma, Ashvin Arora, Mohd. Baquir, Manasvi Chahal. 
 
 
